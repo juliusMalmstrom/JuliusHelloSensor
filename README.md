@@ -7,3 +7,5 @@ Bakgrunder: https://webgradients.com/
 Musikspelare:https://developer.android.com/guide/topics/media/mediaplayer
 
 LowPass-filter: https://www.built.io/blog/applying-low-pass-filter-to-android-sensor-s-readings
+
+koden ligger i master. 
